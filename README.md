@@ -1,0 +1,1 @@
+This repo demonstrates how to use Causal Modeling and Inference techniques over existing Online RL algorithms such as PPO and A2C. We name them CA2C and CPPO due to use of counterfactuals during policy training process.
